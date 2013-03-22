@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><Deployment>
+<Properties>
+   <Property name="installLanguage">en_US</Property>
+</Properties>
+
+<Payloads>
+   <!--Adobe Flash CS3-->
+   <Payload adobeCode="{3BC8460B-085E-47F3-9C62-8FFCBAF11D78}">
+      <Action>install</Action>
+   </Payload>
+
+   <!--Adobe Flash Player 9 ActiveX-->
+   <Payload adobeCode="{6EB45C70-7B6E-456C-8C23-58A8409C0E3D}">
+      <Action>install</Action>
+   </Payload>
+
+   <!--Adobe Flash Player 9 Plugin-->
+   <Payload adobeCode="{56E0400B-3C4E-4600-A4D7-425EAE09E079}">
+      <Action>install</Action>
+   </Payload>
+
+   <!--Adobe Flash Video Encoder-->
+   <Payload adobeCode="{7BB7F66A-D798-45A3-A383-0727FB1EBF8E}">
+      <Action>install</Action>
+   </Payload>
+</Payloads>
+</Deployment>
